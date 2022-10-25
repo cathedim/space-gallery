@@ -1,0 +1,21 @@
+@import "../../styles/variaveis";
+
+.rodape {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: $azul-escuro;
+
+    &__imagem {
+        width: 35px;
+        height: 35px;
+        color: white;
+    }
+
+    & li {
+        display: inline;
+        float: left;
+        padding: 0px 10px 8px;
+    }
+}
