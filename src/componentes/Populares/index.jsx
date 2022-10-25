@@ -1,5 +1,6 @@
 import styles from './Populares.module.scss'
 import popularPhotos from './fotos-populares.json'
+import Botao from 'componentes/Botao';
 
 export default function Populares() {
     return (
@@ -14,7 +15,7 @@ export default function Populares() {
                     );
                 })}
             </ul>
-            <button>See more</button>
+            <Botao texto="See more"/>
         </aside>
     )
 }
