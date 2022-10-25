@@ -1,0 +1,73 @@
+[
+    {
+      "titulo": "Pic name",
+      "creditos": "Alura",
+      "imagem": "/assets/imagens/galeria/foto-1.png",
+      "id": "1",
+      "tag": "Galaxies"
+    },
+    {
+      "titulo": "Pic name",
+      "creditos": "Alura",
+      "imagem": "/assets/imagens/galeria/foto-2.png",
+      "id": "2",
+      "tag": "Stars"
+    },
+    {
+      "titulo": "Pic name",
+      "creditos": "Alura",
+      "imagem": "/assets/imagens/galeria/foto-3.png",
+      "id": "3",
+      "tag": "Moon"
+    },
+    {
+      "titulo": "Pic name",
+      "creditos": "Alura",
+      "imagem": "/assets/imagens/galeria/foto-4.png",
+      "id": "4",
+      "tag": "Galaxies"
+    },
+    {
+      "titulo": "Pic name",
+      "creditos": "Alura",
+      "imagem": "/assets/imagens/galeria/foto-5.png",
+      "id": "5",
+      "tag": "Stars"
+    },
+    {
+      "titulo": "Pic name",
+      "creditos": "Alura",
+      "imagem": "/assets/imagens/galeria/foto-6.png",
+      "id": "6",
+      "tag": "Nebulas"
+    },
+    {
+      "titulo": "Pic name",
+      "creditos": "Alura",
+      "imagem": "/assets/imagens/galeria/foto-7.png",
+      "id": "7",
+      "tag": "Galaxies"
+    },
+    {
+      "titulo": "Pic name",
+      "creditos": "Alura",
+      "imagem": "/assets/imagens/galeria/foto-8.png",
+      "id": "8",
+      "tag": "Nebulas"
+    },
+    {
+      "titulo": "Pic name",
+      "creditos": "Alura",
+      "imagem": "/assets/imagens/galeria/foto-9.png",
+      "id": "9",
+      "tag": "Stars"
+    },
+    {
+      "titulo": "Pic name",
+      "creditos": "Alura",
+      "imagem": "/assets/imagens/galeria/foto-10.png",
+      "id": "10",
+      "tag": "Stars"
+    }
+  ]
+  
